@@ -6,6 +6,11 @@ Hossam Elshahaby
 
 Date: 3 October 2026
 
+## Links
+
+- App: https://river-flow-finder.lovable.app
+- Pitch video: https://youtu.be/rueqBCvdUXA
+
 ## Project Summary
 
 BioFlow Guardian is a manufacturing risk and decision dashboard for Basel-area biopharma operations. It converts real public signals from the Rhine, Basel traffic, and weather into operational actions for refrigerated critical materials.
@@ -90,4 +95,3 @@ BioFlow Guardian helps operators act before external disruption reaches the prod
 - Add material-specific stability profiles
 - Add alerting for manufacturing, logistics, and quality teams
 - Train anomaly models on historical Rhine, traffic, and weather patterns
-
